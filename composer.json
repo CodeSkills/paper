@@ -1,18 +1,18 @@
 {
-    "name": "cnvs/paper",
-    "description": "Canvas Default Appearance",
+    "name": "CodeSkilLs/paper",
+    "description": "Canvas Custom Theme",
     "keywords": ["canvas", "theme", "paper"],
     "type": "canvas-theme",
     "license": "MIT",
     "authors": [
         {
-            "name": "Todd Austin",
-            "email": "austin.todd.j@gmail.com"
+            "name": "Jiří Žižka",
+            "email": "jiri.zizka@funfirst.cz"
         }
     ],
     "extra": {
         "canvas-theme": {
-            "title": "Paper",
+            "title": "Custom Paper (CodeSkilLs)",
             "directories": {
                 "public": "public",
                 "views": "resources/views"
